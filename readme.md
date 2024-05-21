@@ -1,0 +1,1 @@
+All that is necessary is to run npm install to install the dependencies and then npm start.
